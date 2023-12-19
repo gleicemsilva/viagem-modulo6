@@ -1,0 +1,17 @@
+Êþº¾   = ?  decolejaviagens/Pedido  decolejaviagens/Passagem idPedido I 	idUsuario matFunc 
+dataPedido Ljava/util/Date; 	pagamento Ljava/lang/String; statusPedido 
+precoTotal F <init> ()V Code
+     LineNumberTable LocalVariableTable this Ldecolejaviagens/Pedido; getIdPedido ()I	     setIdPedido (I)V getIdUsuario	  !   setIdUsuario 
+getMatFunc	  %   
+setMatFunc getDataPedido ()Ljava/util/Date;	  * 	 
+ setDataPedido (Ljava/util/Date;)V getPagamento ()Ljava/lang/String;	  0   getStatusPedido	  3   setStatusPedido (Ljava/lang/String;)V setPagamento getPrecoTotal ()F	  :   setPrecoTotal (F)V 
+SourceFile Pedido.java !                      	 
+                          /     *· ±                               /     *´ ¬                               >     *µ ±       
+                                /     *´  ¬                         "      >     *µ  ±       
+                          #      /     *´ $¬           "              &      >     *µ $±       
+    &  '                    ' (     /     *´ )°           +              + ,     >     *+µ )±       
+    0  1                	 
+   - .     /     *´ /°           5              1 .     /     *´ 2°           ;              4 5     >     *+µ 2±       
+    ?  @                    6 5     >     *+µ /±       
+    D  E                    7 8     /     *´ 9®           I              ; <     >     *#µ 9±       
+    N  O                    =    >

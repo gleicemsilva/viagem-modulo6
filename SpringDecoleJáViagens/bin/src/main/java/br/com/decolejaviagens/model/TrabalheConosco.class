@@ -1,0 +1,96 @@
+Êþº¾   . 3  6src/main/java/br/com/decolejaviagens/model/TrabalheConosco  java/lang/Object id LLong; nome Ljava/lang/String; email cargo 	curriculo <init> ()V Code  java/lang/Error Unresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 8Lsrc/main/java/br/com/decolejaviagens/model/TrabalheConosco; Q(LLong;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V getId ()LLong;  hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setId 	(LLong;)V getNome ()Ljava/lang/String; $ lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setNome getEmail setEmail getCargo setCargo getCurriculo setCurriculo 
+SourceFile TrabalheConosco.java / Long 1 java/lang/String MissingTypes !                 	     
+                 4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿           -        
+             4     
+» Y· ¿           2        
+      ! "     4     
+» Y#· ¿           7        
+      %      4     
+» Y#· ¿           <        
+      & "     4     
+» Y#· ¿           A        
+      '      4     
+» Y#· ¿           F        
+      ( "     4     
+» Y#· ¿           K        
+      )      4     
+» Y#· ¿           P        
+      * "     4     
+» Y#· ¿           U        
+      +      4     
+» Y#· ¿           Z        
+      ,    - 2     . 0

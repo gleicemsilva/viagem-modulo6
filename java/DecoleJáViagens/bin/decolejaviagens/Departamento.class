@@ -1,0 +1,11 @@
+Êþº¾   = %  decolejaviagens/Departamento  decolejaviagens/Empresa codDepartamento I nomeDepartamento Ljava/lang/String; <init> ()V Code
+   	 
+ LineNumberTable LocalVariableTable this Ldecolejaviagens/Departamento; getCodDepartamento ()I	     setCodDepartamento (I)V getNomeDepartamento ()Ljava/lang/String;	     setNomeDepartamento (Ljava/lang/String;)V 
+getCodUnid	    !  codUnid 
+setCodUnid 
+SourceFile Departamento.java !                  	 
+     /     *· ±                               /     *´ ¬           
+                    >     *µ ±       
+                                /     *´ °                               >     *+µ ±       
+                                /     *´ ¬                         "      >     *µ ±       
+    #  $                !    #    $

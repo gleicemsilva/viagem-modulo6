@@ -1,0 +1,108 @@
+Êþº¾   . 5  3src/main/java/br/com/decolejaviagens/model/Departamento  java/lang/Object codDepartamento LLong; nome Ljava/lang/String; <init> ()V Code  java/lang/Error 
+Unresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Departamento
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+
+   	  (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 5Lsrc/main/java/br/com/decolejaviagens/model/Departamento; (LLong;Ljava/lang/String;)V getCodDepartamento ()LLong;  hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setCodDepartamento 	(LLong;)V getNome ()Ljava/lang/String; ! lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setNome hashCode ()I & ýUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+ equals (Ljava/lang/Object;)Z *ÄUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Departamento
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ toString -Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+ 
+SourceFile Departamento.java 1 Long 3 java/lang/String MissingTypes !                	  	 
+     4     
+» Y· ¿                   
+      	      4     
+» Y· ¿                   
+            4     
+» Y· ¿           &        
+            4     
+» Y· ¿           *        
+            4     
+» Y · ¿           .        
+      "      4     
+» Y · ¿           2        
+      # $     4     
+» Y%· ¿           7        
+      ' (     4     
+» Y)· ¿           <        
+      +      4     
+» Y,· ¿           J        
+      .    / 4     0  2

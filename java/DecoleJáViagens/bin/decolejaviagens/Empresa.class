@@ -1,0 +1,18 @@
+Êþº¾   = A  decolejaviagens/Empresa  java/lang/Object cnpj Ljava/lang/String; razaoSocial nomeFantasia unidade endereco telefone email codUnid I <init> ()V Code
+     LineNumberTable LocalVariableTable this Ldecolejaviagens/Empresa; getCnpj ()Ljava/lang/String;	     setCnpj (Ljava/lang/String;)V getRazaoSocial	      setRazaoSocial getNomeFantasia	  $   setNomeFantasia 
+getCodUnid ()I	  )   
+setCodUnid (I)V 
+getUnidade	  . 	  
+setUnidade getEndereco	  2 
+  setEndereco getTelefone	  6   setTelefone getEmail	  :   setEmail 	contratar ()Z demitir 
+SourceFile Empresa.java !                      	     
+                           /     *· ±                               /     *´ °                               >     *+µ ±       
+                                /     *´ °                         !      >     *+µ ±       
+                          "      /     *´ #°                          %      >     *+µ #±       
+    %  &                    & '     /     *´ (¬           *              * +     >     *µ (±       
+    /  0                    ,      /     *´ -°           4              /      >     *+µ -±       
+    9  :                	    0      /     *´ 1°           >              3      >     *+µ 1±       
+    C  D                
+    4      /     *´ 5°           H              7      >     *+µ 5±       
+    M  N                    8      /     *´ 9°           R              ;      >     *+µ 9±       
+    W  X                    < =     ,     ¬           ^              > =     ,     ¬           d              ?    @

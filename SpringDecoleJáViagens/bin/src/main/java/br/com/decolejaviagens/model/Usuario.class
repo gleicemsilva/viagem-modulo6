@@ -1,0 +1,153 @@
+Êþº¾   . A  .src/main/java/br/com/decolejaviagens/model/Usuario  java/lang/Object id LLong; nome Ljava/lang/String; cpf telefone email senha getId ()LLong; Code  java/lang/Error  hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+
+     <init> (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 0Lsrc/main/java/br/com/decolejaviagens/model/Usuario; setId 	(LLong;)V getNome ()Ljava/lang/String; ! lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setNome getCpf setCpf getTelefone setTelefone getEmail setEmail getSenha setSenha ()V -ÖUnresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Usuario
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+ c(LLong;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V hashCode ()I 2‘Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ equals (Ljava/lang/Object;)Z 6ÌUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Usuario
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ toString 9 —Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+ 
+SourceFile Usuario.java = Long ? java/lang/String MissingTypes !                 	     
+                      4     
+» Y· ¿           )        
+            4     
+» Y· ¿           -        
+            4     
+» Y · ¿           1        
+      "      4     
+» Y · ¿           5        
+      #      4     
+» Y · ¿           9        
+      $      4     
+» Y · ¿           =        
+      %      4     
+» Y · ¿           A        
+      &      4     
+» Y · ¿           E        
+      '      4     
+» Y · ¿           I        
+      (      4     
+» Y · ¿           M        
+      )      4     
+» Y · ¿           Q        
+      *      4     
+» Y · ¿           U        
+       +     4     
+» Y,· ¿                   
+       .     4     
+» Y,· ¿                   
+      / 0     4     
+» Y1· ¿           h        
+      3 4     4     
+» Y5· ¿           o        
+      7      4     
+» Y8· ¿           }        
+      :    ; @     <  >

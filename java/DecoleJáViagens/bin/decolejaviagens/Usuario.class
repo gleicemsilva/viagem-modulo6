@@ -1,0 +1,18 @@
+Êþº¾   = P  decolejaviagens/Usuario  java/lang/Object id I nome Ljava/lang/String; cpf telefone email senha dataCadastro Ljava/util/Date; dataAtualizacaoCadastro 
+cadastrado Ljava/lang/Boolean; logado <init> ()V Code
+     LineNumberTable LocalVariableTable this Ldecolejaviagens/Usuario; getId ()I	     setId (I)V getNome ()Ljava/lang/String;	  %   setNome (Ljava/lang/String;)V getCpf	  * 	  setCpf getTelefone	  . 
+  setTelefone getEmail	  2   setEmail getSenha	  6   setSenha getDataCadastro ()Ljava/util/Date;	  ;   setDataCadastro (Ljava/util/Date;)V getDataAtualizacaoCadastro	  @   setDataAtualizacaoCadastro getCadastrado ()Ljava/lang/Boolean;	  E   setCadastrado (Ljava/lang/Boolean;)V 	getLogado	  J   	setLogado finalizarCompra cancelarCompra 
+SourceFile Usuario.java !     
+            	     
+                                          /     *· ±                               /     *´ ¬                           !     >     *µ ±       
+                          " #     /     *´ $°                         & '     >     *+µ $±       
+                          ( #     /     *´ )°           "              + '     >     *+µ )±       
+    '  (                	    , #     /     *´ -°           ,              / '     >     *+µ -±       
+    1  2                
+    0 #     /     *´ 1°           6              3 '     >     *+µ 1±       
+    :  ;                    4 #     /     *´ 5°           >              7 '     >     *+µ 5±       
+    C  D                    8 9     /     *´ :°           J              < =     >     *+µ :±       
+    O  P                    > 9     /     *´ ?°           T              A =     >     *+µ ?±       
+    Y  Z                    B C     /     *´ D°           _              F G     >     *+µ D±       
+    d  e                    H C     /     *´ I°           l              K G     >     *+µ I±       
+    q  r                    L      +      ±           y              M      +      ±           ~              N    O

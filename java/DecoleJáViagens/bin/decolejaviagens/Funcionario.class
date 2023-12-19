@@ -1,0 +1,13 @@
+Êþº¾   = 5  decolejaviagens/Funcionario  decolejaviagens/Departamento 	matricula I nome Ljava/lang/String; cargo salario F <init> ()V Code
+     LineNumberTable LocalVariableTable this Ldecolejaviagens/Funcionario; getMatricula ()I	     setMatricula (I)V getNome ()Ljava/lang/String;	     setNome (Ljava/lang/String;)V getCargo	  # 	  setCargo 
+getSalario ()F	  ( 
+  
+setSalario (F)V getCodDepartamento	  - .  codDepartamento setCodDepartamento dep trabalhando ()Z 
+SourceFile Funcionario.java !                 	     
+            /     *· ±                               /     *´ ¬                               >     *µ ±       
+                                /     *´ °                                >     *+µ ±       
+                          !      /     *´ "°                         $       >     *+µ "±       
+    $  %                	    % &     /     *´ '®           )              ) *     >     *#µ '±       
+    .  /                
+    +      /     *´ ,¬           2              /      >     *µ ,±       
+    6  7                0    1 2     ,     ¬           ;              3    4

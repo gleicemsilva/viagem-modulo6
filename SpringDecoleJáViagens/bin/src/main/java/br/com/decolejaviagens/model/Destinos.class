@@ -1,0 +1,181 @@
+Êþº¾   . ^  /src/main/java/br/com/decolejaviagens/model/Destinos  java/lang/Object id LLong; destino Ljava/lang/String; embarque preco LBigDecimal; 	categoria 
+quantidade I condicao dataIda LLocalDate; 	dataVolta <init> ()V Code  java/lang/Error “Unresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.math cannot be resolved
+	The import java.time cannot be resolved
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	DateTimeFormat cannot be resolved to a type
+	ISO cannot be resolved to a variable
+	LocalDate cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	DateTimeFormat cannot be resolved to a type
+	ISO cannot be resolved to a variable
+	LocalDate cannot be resolved to a type
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Object cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 1Lsrc/main/java/br/com/decolejaviagens/model/Destinos; t(LLong;Ljava/lang/String;Ljava/lang/String;LBigDecimal;Ljava/lang/String;ILjava/lang/String;LLocalDate;LLocalDate;)V getId ()LLong; % hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setId 	(LLong;)V 
+getDestino ()Ljava/lang/String; + lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ 
+setDestino getEmbarque setEmbarque getPreco ()LBigDecimal; 2 tUnresolved compilation problems: 
+	BigDecimal cannot be resolved to a type
+	BigDecimal cannot be resolved to a type
+ setPreco (LBigDecimal;)V getCategoria setCategoria 8 FUnresolved compilation problem: 
+	String cannot be resolved to a type
+ getQuantidade ()I < !Unresolved compilation problem: 
+ setQuantidade (I)V getCondicao setCondicao 
+getDataIda ()LLocalDate; D IUnresolved compilation problem: 
+	LocalDate cannot be resolved to a type
+ 
+setDataIda (LLocalDate;)V getDataVolta setDataVolta hashCode K ™Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+ equals (Ljava/lang/Object;)Z O —Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Object cannot be resolved to a type
+ toString R —Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+ 
+SourceFile Destinos.java V 
+BigDecimal X 	LocalDate Z Long \ java/lang/String MissingTypes !     	            	     
+                                     4     
+» Y· ¿                   
+        !     4  
+   
+» Y· ¿                   
+       " #     4     
+» Y$· ¿           F        
+       & '     4     
+» Y$· ¿           J        
+       ( )     4     
+» Y*· ¿           N        
+       ,      4     
+» Y*· ¿           R        
+       - )     4     
+» Y*· ¿           V        
+       .      4     
+» Y*· ¿           Z        
+       / 0     4     
+» Y1· ¿           ^        
+       3 4     4     
+» Y1· ¿           b        
+       5 )     4     
+» Y*· ¿           f        
+       6      4     
+» Y7· ¿           j        
+       9 :     4     
+» Y;· ¿           n        
+       = >     4     
+» Y;· ¿           r        
+       ? )     4     
+» Y7· ¿           v        
+       @      4     
+» Y7· ¿           z        
+       A B     4     
+» YC· ¿           ~        
+       E F     4     
+» YC· ¿           ‚        
+       G B     4     
+» YC· ¿           †        
+       H F     4     
+» YC· ¿           Š        
+       I :     4     
+» YJ· ¿           Ž        
+       L M     4     
+» YN· ¿           “        
+       P )     4     
+» YQ· ¿           £        
+       S    T ]     U W Y  [

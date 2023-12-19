@@ -1,0 +1,64 @@
+Êþº¾   . .  ,src/main/java/br/com/decolejaviagens/model/Cargo  java/lang/Object id LLong; nome Ljava/lang/String; funcionarios LList; <init> ()V Code  java/lang/Error ¹Unresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	OneToMany cannot be resolved to a type
+	List cannot be resolved to a type
+	Syntax error, parameterized types are only available if source level is 1.5 or greater
+	Implicit super constructor Object() is undefined. Must explicitly invoke another constructor
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this .Lsrc/main/java/br/com/decolejaviagens/model/Cargo; (LLong;Ljava/lang/String;)V getId ()LLong;  hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setId 	(LLong;)V getNome ()Ljava/lang/String; # lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setNome 
+SourceFile 
+Cargo.java ( List * Long , java/lang/String MissingTypes !                 	 
+           4     
+» Y· ¿                   
+            4     
+» Y· ¿                   
+            4     
+» Y· ¿           '        
+            4     
+» Y· ¿           +        
+        !     4     
+» Y"· ¿           /        
+      $      4     
+» Y"· ¿           3        
+      %    & -     ' ) +

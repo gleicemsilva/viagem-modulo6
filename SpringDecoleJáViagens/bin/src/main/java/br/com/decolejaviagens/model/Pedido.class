@@ -1,0 +1,184 @@
+Êþº¾   . L  -src/main/java/br/com/decolejaviagens/model/Pedido  java/lang/Object idPedido LLong; 	idUsuario 
+dataPedido LLocalDate; 
+precoTotal F formaPagamento Ljava/lang/String; status <init> ?(LLong;LLong;LLocalDate;FLjava/lang/String;Ljava/lang/String;)V Code  java/lang/Error ýUnresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.time cannot be resolved
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import org cannot be resolved
+	The import org cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	DateTimeFormat cannot be resolved to a type
+	ISO cannot be resolved to a variable
+	LocalDate cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	LocalDate cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Pedido
+	Objects cannot be resolved
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Float cannot be resolved
+	Float cannot be resolved
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this /Lsrc/main/java/br/com/decolejaviagens/model/Pedido; getIdPedido ()LLong;   hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setIdPedido 	(LLong;)V getIdUsuario setIdUsuario getDataPedido ()LLocalDate; ( rUnresolved compilation problems: 
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+ setDataPedido (LLocalDate;)V getPrecoTotal ()F . !Unresolved compilation problem: 
+ setPrecoTotal (F)V getFormaPagamento ()Ljava/lang/String; 4 lUnresolved compilation problems: 
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ setFormaPagamento 	getStatus 	setStatus hashCode ()I ;mUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Objects cannot be resolved
+	LocalDate cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+ equals (Ljava/lang/Object;)Z ?&Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Object cannot be resolved to a type
+	The method getClass() is undefined for the type Pedido
+	Objects cannot be resolved
+	LocalDate cannot be resolved to a type
+	LocalDate cannot be resolved to a type
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Objects cannot be resolved
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Float cannot be resolved
+	Float cannot be resolved
+	Objects cannot be resolved
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+ toString B —Unresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+ 
+SourceFile Pedido.java F 	LocalDate H Long J java/lang/String MissingTypes !                  	    
+                      4     
+» Y· ¿                   
+            4     
+» Y· ¿           9        
+      ! "     4     
+» Y· ¿           =        
+      #      4     
+» Y· ¿           A        
+      $ "     4     
+» Y· ¿           E        
+      % &     4     
+» Y'· ¿           I        
+      ) *     4     
+» Y'· ¿           M        
+      + ,     4     
+» Y-· ¿           Q        
+      / 0     4     
+» Y-· ¿           U        
+      1 2     4     
+» Y3· ¿           Y        
+      5      4     
+» Y3· ¿           ]        
+      6 2     4     
+» Y3· ¿           a        
+      7      4     
+» Y3· ¿           e        
+      8 9     4     
+» Y:· ¿           k        
+      < =     4     
+» Y>· ¿           q        
+      @ 2     4     
+» YA· ¿           ‚        
+      C    D K   
+  E G  I

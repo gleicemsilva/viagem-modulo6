@@ -1,0 +1,8 @@
+Êþº¾   = 0  model/Conexao  java/lang/Object USERNAME Ljava/lang/String; ConstantValue 	 root PASSWORD    DATABASE_URL  'jdbc:mysql://localhost:3306/decolejaviagens <init> ()V Code
+     LineNumberTable LocalVariableTable this Lmodel/Conexao; createConnectionToMySQL ()Ljava/sql/Connection; 
+Exceptions  java/lang/Exception  com.mysql.cj.jdbc.Driver
+ ! # " java/lang/Class $ % forName %(Ljava/lang/String;)Ljava/lang/Class;
+ ' ) ( java/sql/DriverManager * + getConnection M(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection; 
+connection Ljava/sql/Connection; 
+SourceFile Conexao.java !                
+                         /     *· ±                        	             D     ¸  W¸ &K*°                       , -    .    /

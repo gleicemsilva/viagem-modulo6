@@ -1,0 +1,174 @@
+ ˛∫æ   . Q  .src/main/java/br/com/decolejaviagens/model/Unidade  java/lang/Object 
+codUnidade LLong; nome Ljava/lang/String; telefone email rua numero complemento bairro cidade estado cep <init> Ω(LLong;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V Code  java/lang/Error ’Unresolved compilation problems: 
+	The declared package "br.com.decolejaviagens.model" does not match the expected package "src.main.java.br.com.decolejaviagens.model"
+	The import java.util cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	The import javax cannot be resolved
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Entity cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Table cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Id cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	GeneratedValue cannot be resolved to a type
+	GenerationType cannot be resolved to a variable
+	Long cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Column cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	The constructor Object() is undefined
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	String cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Object cannot be resolved to a type
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this 0Lsrc/main/java/br/com/decolejaviagens/model/Unidade; getCodUnidade ()LLong; # hUnresolved compilation problems: 
+	Long cannot be resolved to a type
+	Long cannot be resolved to a type
+ setCodUnidade 	(LLong;)V ' DUnresolved compilation problem: 
+	Long cannot be resolved to a type
+ getNome ()Ljava/lang/String; + FUnresolved compilation problem: 
+	String cannot be resolved to a type
+ setNome getTelefone setTelefone getEmail setEmail getRua setRua 	getNumero 	setNumero getComplemento setComplemento 	getBairro 	setBairro 	getCidade 	setCidade 	getEstado 	setEstado getCep setCep hashCode ()I B ôUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Override cannot be resolved to a type
+ equals (Ljava/lang/Object;)Z F óUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	Object cannot be resolved to a type
+ toString I óUnresolved compilation problems: 
+	Syntax error, annotations are only available if source level is 1.5 or greater
+	String cannot be resolved to a type
+ 
+SourceFile Unidade.java M Long O java/lang/String MissingTypes !                 	     
+                                               4     
+ª Y∑ ø                   
+        !     4     
+ª Y"∑ ø           E        
+      $ %     4     
+ª Y&∑ ø           I        
+      ( )     4     
+ª Y*∑ ø           M        
+      ,      4     
+ª Y*∑ ø           Q        
+      - )     4     
+ª Y*∑ ø           U        
+      .      4     
+ª Y*∑ ø           Y        
+      / )     4     
+ª Y*∑ ø           ]        
+      0      4     
+ª Y*∑ ø           a        
+      1 )     4     
+ª Y*∑ ø           e        
+      2      4     
+ª Y*∑ ø           i        
+      3 )     4     
+ª Y*∑ ø           m        
+      4      4     
+ª Y*∑ ø           q        
+      5 )     4     
+ª Y*∑ ø           u        
+      6      4     
+ª Y*∑ ø           y        
+      7 )     4     
+ª Y*∑ ø           }        
+      8      4     
+ª Y*∑ ø           Å        
+      9 )     4     
+ª Y*∑ ø           Ö        
+      :      4     
+ª Y*∑ ø           â        
+      ; )     4     
+ª Y*∑ ø           ç        
+      <      4     
+ª Y*∑ ø           ë        
+      = )     4     
+ª Y*∑ ø           ï        
+      >      4     
+ª Y*∑ ø           ô        
+      ? @     4     
+ª YA∑ ø           ü        
+      C D     4     
+ª YE∑ ø           §        
+      G )     4     
+ª YH∑ ø           ∑        
+      J    K P     L  N
